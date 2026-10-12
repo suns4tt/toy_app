@@ -1,0 +1,18 @@
+current directory: /home/suns4tt/workspace/toy_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/suns4tt/workspace/toy_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261013-14761-ozm2m2 sitelibdir\=./.gem.20261013-14761-ozm2m2 clean
+
+current directory: /home/suns4tt/workspace/toy_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261013-14761-ozm2m2 sitelibdir\=./.gem.20261013-14761-ozm2m2
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/suns4tt/workspace/toy_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261013-14761-ozm2m2 sitelibdir\=./.gem.20261013-14761-ozm2m2 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20261013-14761-ozm2m2/racc
+
+current directory: /home/suns4tt/workspace/toy_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261013-14761-ozm2m2 sitelibdir\=./.gem.20261013-14761-ozm2m2 clean
